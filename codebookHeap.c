@@ -1,4 +1,4 @@
-// this is codebook heap manac
+// codebook heap
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
